@@ -9,10 +9,12 @@
 
 ## Stateless 장점
 1. 아무 서버나 호출 가능
+
 ![image](https://user-images.githubusercontent.com/59104703/167240994-ac81630e-57bf-472c-a6ee-0629902fd1db.png)
 
 
 2. 수평 확장 유리
+
 ![image](https://user-images.githubusercontent.com/59104703/167240999-77f37040-4b1e-4cb3-8021-20911a40d89a.png)
 
 ## Stateless 한계
