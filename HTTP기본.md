@@ -47,11 +47,11 @@
 
 ## 요청 메시지
  ![image](https://user-images.githubusercontent.com/59104703/167241260-896e6a4d-357b-4d22-86ea-4090f960673a.png)
- 
+ ---
  ![image](https://user-images.githubusercontent.com/59104703/167241265-47576a32-4343-4005-aa9f-79415686690f.png)
- 
+ ---
  ![image](https://user-images.githubusercontent.com/59104703/167241269-9b17e78b-524b-4168-9347-8367c0258f6c.png)
- 
+ ---
  ![image](https://user-images.githubusercontent.com/59104703/167241274-dba9c424-f7e6-481b-b5fb-dfdbede93e21.png)
 
 ## 시작라인 - 응답 메시지
