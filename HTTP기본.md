@@ -46,19 +46,22 @@
 ![image](https://user-images.githubusercontent.com/59104703/167241189-96f7413d-2833-479f-82dd-a39edfabaf61.png)
 
 ## 요청 메시지
-- ![image](https://user-images.githubusercontent.com/59104703/167241260-896e6a4d-357b-4d22-86ea-4090f960673a.png)
-- ![image](https://user-images.githubusercontent.com/59104703/167241265-47576a32-4343-4005-aa9f-79415686690f.png)
-- ![image](https://user-images.githubusercontent.com/59104703/167241269-9b17e78b-524b-4168-9347-8367c0258f6c.png)
-- ![image](https://user-images.githubusercontent.com/59104703/167241274-dba9c424-f7e6-481b-b5fb-dfdbede93e21.png)
+ ![image](https://user-images.githubusercontent.com/59104703/167241260-896e6a4d-357b-4d22-86ea-4090f960673a.png)
+ 
+ ![image](https://user-images.githubusercontent.com/59104703/167241265-47576a32-4343-4005-aa9f-79415686690f.png)
+ 
+ ![image](https://user-images.githubusercontent.com/59104703/167241269-9b17e78b-524b-4168-9347-8367c0258f6c.png)
+ 
+ ![image](https://user-images.githubusercontent.com/59104703/167241274-dba9c424-f7e6-481b-b5fb-dfdbede93e21.png)
 
 ## 시작라인 - 응답 메시지
-- ![image](https://user-images.githubusercontent.com/59104703/167241371-c6b21dd7-0dfe-4b0c-94b8-c5f945f1ee8b.png)
+ ![image](https://user-images.githubusercontent.com/59104703/167241371-c6b21dd7-0dfe-4b0c-94b8-c5f945f1ee8b.png)
 
 ## HTTP 헤더
 ![image](https://user-images.githubusercontent.com/59104703/167241384-436ff986-81ec-4d79-bfa4-a2124eff4bcd.png)
 
 ## HTTP 메시지 바디
-- ![image](https://user-images.githubusercontent.com/59104703/167241397-ffb8381c-7e13-45cc-9087-3529765ae9df.png)
+ ![image](https://user-images.githubusercontent.com/59104703/167241397-ffb8381c-7e13-45cc-9087-3529765ae9df.png)
 
 
 
