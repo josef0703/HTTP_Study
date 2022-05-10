@@ -9,3 +9,9 @@
   - 데이터 유형(html,json) 데이터 길이, 압축 정보
 
 ![image](https://user-images.githubusercontent.com/59104703/167569357-4e3ecdaa-5054-4b1c-95f2-33647e5ee8d3.png)
+
+## 표현
+- Content-Type : 표현 데이터의 형식
+- Content-Encoding : 표현 데이터의 압축 방식
+- Content-Language : 표현 데이터의 자연 언어
+- Content-Length : 표현 데이터의 길이
