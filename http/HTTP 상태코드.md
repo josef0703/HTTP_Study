@@ -46,10 +46,13 @@ __영구 리다이렉션 308__
 4. PRG : Post/Redirect/Get
     - POST 주문후 브라우저 새로고침하면 중복 주문 방지
     - 주문후 주문 결과 화면으로 리다이렉트
+
     **PRG 사용전**
+    
     ![image](https://user-images.githubusercontent.com/59104703/167565045-1ee6ff2d-c3bb-4ff0-bca0-339947651e37.png)
     ---
     **PRG 사용후**
+    
     ![image](https://user-images.githubusercontent.com/59104703/167565196-7f52a191-7334-4e41-bf83-b0b188baf826.png)
 
 
