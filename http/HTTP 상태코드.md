@@ -27,6 +27,7 @@
   - 리다이렉트시 요청 메서드가 GET으로 변하고, 본문이 제거될 수 있음
   ![image](https://user-images.githubusercontent.com/59104703/167561368-4d72014c-fdde-42d9-a4f4-aa29032b2c85.png)
 ---
+
   __영구 리다이렉션 308__
   - 리다이렉트시 요청 메서드와 본문 유지(처음 POST를 보내면 리다이렉트도 POST 유지)
   ![image](https://user-images.githubusercontent.com/59104703/167561422-3a8d451b-3255-4fcf-9abc-18fb0d0e1f54.png)
