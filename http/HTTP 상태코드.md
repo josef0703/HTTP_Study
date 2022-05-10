@@ -23,9 +23,9 @@
 - 영구 리다이렉션 - 특정 리소스의 URI가 영구적으로 이동
   - 예) /event -> /new-event
 
-  __영구 리다이렉션 301__
-  - 리다이렉트시 요청 메서드가 GET으로 변하고, 본문이 제거될 수 있음
-  ![image](https://user-images.githubusercontent.com/59104703/167561368-4d72014c-fdde-42d9-a4f4-aa29032b2c85.png)
+__영구 리다이렉션 301__
+- 리다이렉트시 요청 메서드가 GET으로 변하고, 본문이 제거될 수 있음
+![image](https://user-images.githubusercontent.com/59104703/167561368-4d72014c-fdde-42d9-a4f4-aa29032b2c85.png)
   
 ---
 
