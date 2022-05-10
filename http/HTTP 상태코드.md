@@ -29,9 +29,9 @@
   
 ---
 
-  __영구 리다이렉션 308__
-  - 리다이렉트시 요청 메서드와 본문 유지(처음 POST를 보내면 리다이렉트도 POST 유지)
-  ![image](https://user-images.githubusercontent.com/59104703/167561422-3a8d451b-3255-4fcf-9abc-18fb0d0e1f54.png)
+__영구 리다이렉션 308__
+- 리다이렉트시 요청 메서드와 본문 유지(처음 POST를 보내면 리다이렉트도 POST 유지)
+![image](https://user-images.githubusercontent.com/59104703/167561422-3a8d451b-3255-4fcf-9abc-18fb0d0e1f54.png)
 
 - 일시 리다이렉션 - 일시적인 변경
   - 주문 완료 후 주문 내역 화면으로 이동
