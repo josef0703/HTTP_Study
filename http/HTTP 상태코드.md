@@ -35,6 +35,24 @@ __영구 리다이렉션 308__
 
 - 일시 리다이렉션 - 일시적인 변경
   - 주문 완료 후 주문 내역 화면으로 이동
+  1. 302 Found
+    - 리다이렉트시 요청 메서드가 GET으로 변하고, 본문이 제거될 수 있음(MAY)
+  2. 307 Temporary Redirect
+    - 302와 기능같음
+    - 리다이렉트시 요청 메서드와 본문 유지(요청 메서드를 변경하면 안된다. MUST NOT)
+  3. 303 See Other
+    - 302와 기능 같음
+    - 리다이렉트시 요청 메서드가 GET으로 변경
+  4. PRG : Post/Redirect/Get
+    - POST 주문후 브라우저 새로고침하면 중복 주문 방지
+    - 주문후 주문 결과 화면으로 리다이렉트
+    **PRG 사용전**
+    ![image](https://user-images.githubusercontent.com/59104703/167565045-1ee6ff2d-c3bb-4ff0-bca0-339947651e37.png)
+    ---
+    **PRG 사용후**
+    ![image](https://user-images.githubusercontent.com/59104703/167565196-7f52a191-7334-4e41-bf83-b0b188baf826.png)
+
+
 - 특수 리다이렉
   - 결과 대신 캐시를 사용
 
